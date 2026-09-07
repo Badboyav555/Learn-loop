@@ -1,8 +1,8 @@
 // ==========================================
 // SUPABASE & APP CONFIGURATION
 // ==========================================
-const SUPABASE_URL = "https://hafkxgipiqjmjhevjlsc.supabase.co"; // Yahan apna URL daal
-const SUPABASE_KEY = "sb_publishable_cbG1R6WokyUczPW4OWLHww_hqlM0JGg"; // Yahan apni Key daal
+const SUPABASE_URL = 'https://hafkxgipiqjmjhevjlsc.supabase.co'; // Yahan apna URL daal
+const SUPABASE_KEY = 'sb_publishable_cbG1R6WokyUczPW4OWLHww_hqlM0JGg'; // Yahan apni Key daal
 
 // Agar Supabase URL nahi hai toh error rokne ke liye
 let supabase;
